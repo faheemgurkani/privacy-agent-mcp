@@ -21,3 +21,4 @@ chroma_db/
 Thumbs.db
 
 src/rough.py
+src/resources/policy_config.yaml
