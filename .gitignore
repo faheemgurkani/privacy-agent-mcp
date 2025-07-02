@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+
+# Secrets & local configs
+.env
+*.log
+*.sqlite3
+
+# ChromaDB files (optional, depending on backend)
+chroma_db/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+src/rough.py

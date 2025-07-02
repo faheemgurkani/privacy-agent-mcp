@@ -1,0 +1,20 @@
+# Core FastMCP SDK
+fastmcp
+
+# OpenAI client
+openai
+
+# ChromaDB for secure memory vector store
+chromadb
+
+# Cryptography for Fernet encryption
+cryptography
+
+# Env management
+python-dotenv
+
+# Regex / NLP helpers
+spacy
+
+# Async utilities
+nest_asyncio

@@ -1,0 +1,10 @@
+allowed_fields:
+  - age
+  - symptoms
+  - diagnosis
+blocked_entities:
+  - names
+  - ssn
+  - phone
+pii_detection: hybrid
+encryption_key: EGXD33DmNackq04LEBTo80BrAciZf85jw8LS9CyCB1E=
